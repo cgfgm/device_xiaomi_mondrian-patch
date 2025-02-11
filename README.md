@@ -43,7 +43,7 @@ git clone --depth=1 https://github.com/kde-yyds/android_external_kernelsu extern
 ```
 #### Patches
 ```
-git clone --depth=1 https://github.com/kde-yyds/device_xiaomi_mondrian-patch/
+git clone --depth=1 https://github.com/cgfgm/device_xiaomi_mondrian-patch/tree/cgfgm-patch-1
 ```
 ### Fix errors for Arch Linux (Thanks to [@Finish0314](https://github.com/finish0314) for this workaround)
 When building android kernel on Arch Linux, `libyaml` cannot be found and configured correctly. Copy the header and lib to `prebuilts/kernel-build-tools` manually to fix it.
