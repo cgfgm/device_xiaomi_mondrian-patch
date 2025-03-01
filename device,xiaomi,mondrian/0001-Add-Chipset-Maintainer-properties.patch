@@ -19,7 +19,7 @@ index 153ef3c..996f98e 100644
 +# RisingOS
 +PRODUCT_BUILD_PROP_OVERRIDES += \
 +    RisingChipset="Snapdragon 8+ Gen1" \
-+    RisingMaintainer="kde-yyds"
++    RisingMaintainer="OHK"
 -- 
 2.47.0
 
